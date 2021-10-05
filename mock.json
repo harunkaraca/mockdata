@@ -4,51 +4,51 @@
     "data":[
     {
       "name":"Turkey",
-      "capital":"Ankara",
+      "capital":"Ankara"
     },
     {
       "name":"USA",
-      "capital":"Washington",
+      "capital":"Washington"
     },
     {
       "name":"UK",
-      "capital":"London",
+      "capital":"London"
     },
     {
       "name":"Holland",
-      "capital":"Amsterdam",
+      "capital":"Amsterdam"
     },
     {
       "name":"Germany",
-      "capital":"Berlin",
+      "capital":"Berlin"
     },
     {
       "name":"Spain",
-      "capital":"Madrid",
+      "capital":"Madrid"
     },
     {
       "name":"France",
-      "capital":"Paris",
+      "capital":"Paris"
     },
     {
       "name":"Canada",
-      "capital":"Ottava",
+      "capital":"Ottava"
     },
     {
       "name":"Ireland",
-      "capital":"Dublin",
+      "capital":"Dublin"
     },
     {
       "name":"China",
-      "capital":"Beijing",
+      "capital":"Beijing"
     },
     {
       "name":"Argentina",
-      "capital":"Buenos Aires",
+      "capital":"Buenos Aires"
     },
     {
       "name":"Finland",
-      "capital":"Helsinki ",
+      "capital":"Helsinki"
     }
   ]
 }
