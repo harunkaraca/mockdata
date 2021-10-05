@@ -3,52 +3,52 @@
     "successCode":0,
     "data":[
     {
-      "name":Turkey",
+      "name":"Turkey",
       "capital":"Ankara",
     },
     {
-      "name":USA",
+      "name":"USA",
       "capital":"Washington",
     },
     {
-      "name":UK",
+      "name":"UK",
       "capital":"London",
     },
     {
-      "name":Holland",
+      "name":"Holland",
       "capital":"Amsterdam",
     },
     {
-      "name":Germany",
+      "name":"Germany",
       "capital":"Berlin",
     },
     {
-      "name":Spain",
+      "name":"Spain",
       "capital":"Madrid",
     },
     {
-      "name":France",
+      "name":"France",
       "capital":"Paris",
     },
     {
-      "name":Canada",
+      "name":"Canada",
       "capital":"Ottava",
     },
     {
-      "name":Ireland",
+      "name":"Ireland",
       "capital":"Dublin",
     },
     {
-      "name":China",
+      "name":"China",
       "capital":"Beijing",
     },
     {
-      "name":Argentina",
+      "name":"Argentina",
       "capital":"Buenos Aires",
     },
     {
-      "name":Finland",
-      "capital":"Helsinki",
+      "name":"Finland",
+      "capital":"Helsinki ",
     }
   ]
 }
