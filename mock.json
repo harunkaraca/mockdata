@@ -5,62 +5,74 @@
     {
       "id":1,
       "name":"Turkey",
-      "capital":"Ankara"
+      "capital":"Ankara",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/tr.png"  
     },
     {
       "id":2,
       "name":"USA",
-      "capital":"Washington"
+      "capital":"Washington",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/us.png"
     },
     {
       "id":3,
       "name":"UK",
-      "capital":"London"
+      "capital":"London",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/gb-nir.png"
     },
     {
       "id":4,
       "name":"Holland",
-      "capital":"Amsterdam"
+      "capital":"Amsterdam",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/nl.png"
     },
     {
       "id":5,
       "name":"Germany",
-      "capital":"Berlin"
+      "capital":"Berlin",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/de.png"
     },
     {
       "id":6,
       "name":"Spain",
-      "capital":"Madrid"
+      "capital":"Madrid",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/es.png"
     },
     {
       "id":7,
       "name":"France",
-      "capital":"Paris"
+      "capital":"Paris",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/fr.png"
     },
     {
       "id":8,
       "name":"Canada",
-      "capital":"Ottava"
+      "capital":"Ottava",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/ca.png"
     },
     {
       "id":9,
       "name":"Ireland",
-      "capital":"Dublin"
+      "capital":"Dublin",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/ie.png"
     },
     {
       "id":10,
       "name":"China",
-      "capital":"Beijing"
+      "capital":"Beijing",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/cn.png"
     },
     {
       "id":11,
       "name":"Argentina",
-      "capital":"Buenos Aires"
+      "capital":"Buenos Aires",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/ar.png"
     },
     {
       "id":12,
       "name":"Finland",
-      "capital":"Helsinki"
+      "capital":"Helsinki",
+      "flag_url":"https://tudify.s3.eu-west-1.amazonaws.com/flags/fi.png"
     }
   ]
 }
